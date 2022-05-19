@@ -44,7 +44,17 @@ public class Readme {
 
 ## 5. 通信控制逻辑
 
-![image](C:\Users\Zhai yanbo\AppData\Roaming\Typora\typora-user-images\image-20220518191435359.png)
+![image](https://github.com/ZhaiYanbo/Java-/blob/main/picture/image2.png))
+
+## 6.项目组成
+
+![image](https://github.com/ZhaiYanbo/Java-/blob/main/picture/image.png))
+
+其中Server表示服务器类
+
+Client表示客户端类
+
+Test是我在测试某一子功能的时候用的类，正常运行是用不到的，只需要先运行一个Server类，再运行两个Client类即可。
 
 ## 6.附加功能
 
