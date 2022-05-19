@@ -40,11 +40,11 @@ public class Readme {
 
 ## 4.客户端与服务器的通信
 
-![image-20220518191416128](C:\Users\Zhai yanbo\AppData\Roaming\Typora\typora-user-images\image-20220518191416128.png)
+![image](https://github.com/ZhaiYanbo/Java-/blob/main/picture/image1.png))
 
 ## 5. 通信控制逻辑
 
-![image-20220518191435359](C:\Users\Zhai yanbo\AppData\Roaming\Typora\typora-user-images\image-20220518191435359.png)
+![image](C:\Users\Zhai yanbo\AppData\Roaming\Typora\typora-user-images\image-20220518191435359.png)
 
 ## 6.附加功能
 
